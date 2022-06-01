@@ -8,7 +8,7 @@ I like programming and learing new skills...
 - 🍪 Fun fact: The first programming language was called FORTRAN.
 
 
-# Contact Me:
+# Contact Me
 
 ![dacord](https://discord.c99.nl/widget/theme-4/762587583377047572.png)
 
