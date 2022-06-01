@@ -41,9 +41,7 @@ I like programming and learing new skills...
 
 <p align="left">
 
-<a href='https://github.com/DevAmiyo/FileEncrypter'><img src='https://github-readme-stats.vercel.app/api/pin/?username=DevAmiyo&repo=FileEncrypter&theme=dracula&show_icons=true'></a>
-
-<a href='https://github.com/DevAmiyo/RockPaperScissors'><img src='https://github-readme-stats.vercel.app/api/pin/?username=DevAmiyo&repo=RockPaperScissors&theme=dracula&show_icons=true'></a>
+<a href='https://github.com/DevAmiyo/FileEncrypter'><img src='https://github-readme-stats.vercel.app/api/pin/?username=DevAmiyo&repo=FileEncrypter&theme=nightowl&show_icons=true'></a> &nbsp; <a href='https://github.com/DevAmiyo/RockPaperScissors'><img src='https://github-readme-stats.vercel.app/api/pin/?username=DevAmiyo&repo=RockPaperScissors&theme=nightowl&show_icons=true'></a>
 
 </p>
 
