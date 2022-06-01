@@ -30,7 +30,7 @@ I like programming and learing new skills...
 <!--END_SECTION:activity-->
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DevAmiyo&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
+![Stats](https://github-readme-stats.vercel.app/api?username=DevAmiyo&layout=compact&hide_border=true&hide_title=true&count_private=false&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
 
 ![Streak](http://github-readme-streak-stats.herokuapp.com?user=DevAmiyo&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=AB2CDD&ring=946AFD&fire=DD2727&sideLabels=7CDD9F)
 
@@ -47,7 +47,6 @@ I like programming and learing new skills...
 
 [And some more :)](https://github.com/DevAmiyo?tab=repositories)
 
-<br>
 
 
 ## Coffee?
