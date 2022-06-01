@@ -2,7 +2,6 @@
 I like programming and learing new skills...
 
 - 🐍 I’m currently learning Python and Java.
-- 🚀 Sometimes I'm slow on everywhere else but email, because email notification works.
 - 💬 Feel free to ask me any coding questions you have.
 - 📫 How to reach me: [amiyosarooppatra@outlook.com](mailto:amiyosarooppatra@outlook.com).
 - ⛄️ Pronouns: He/Him.
