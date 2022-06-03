@@ -50,5 +50,5 @@ I like programming and learing new skills...
 
 ## Coffee?
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://amiyo.tk)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/amiyo)
 
