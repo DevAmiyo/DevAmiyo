@@ -22,10 +22,11 @@ I like programming and learing new skills...
 ## Github Activity
 <!--START_SECTION:activity-->
 1. 🧩 Created a new repository [DevAmiyo/FileEncrypter](https://github.com/DevAmiyo/FileEncrypter)
-2.  🎉 Contributed to [DevYuval/musicplayer](https://github.com/DevYuval/musicplayer)
-3. 🧩 Created a new repository [DevAmiyo/RockPaperScissors](https://github.com/DevAmiyo/RockPaperScissors)
-4. 💪 Opened PR [#36](https://github.com/mlg404/whatsapp-music-bot/pull/36) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
-5. 🗣 Commented on [#2](https://github.com/Hacksore/overlayed/issues/2) in [Hacksore/overlayed](https://github.com/Hacksore/overlayed)
+2. 🎉 Contributed to [DevYuval/musicplayer](https://github.com/DevYuval/musicplayer)
+3. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🧩 Created a new repository [DevAmiyo/RockPaperScissors](https://github.com/DevAmiyo/RockPaperScissors)
+5. 💪 Opened PR [#36](https://github.com/mlg404/whatsapp-music-bot/pull/36) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
+6. 🗣 Commented on [#2](https://github.com/Hacksore/overlayed/issues/2) in [Hacksore/overlayed](https://github.com/Hacksore/overlayed)
 <!--END_SECTION:activity-->
 
 
