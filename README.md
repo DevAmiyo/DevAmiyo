@@ -32,9 +32,20 @@ I like programming and learing new skills...
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DevAmiyo&layout=compact&hide_border=true&hide_title=true&count_private=false&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)
 
-![Streak](http://github-readme-streak-stats.herokuapp.com?user=DevAmiyo&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=AB2CDD&ring=946AFD&fire=DD2727&sideLabels=7CDD9F)
-
-![Activity](https://activity-graph.herokuapp.com/graph?username=DevAmiyo&bg_color=303030&color=ff8a8a&line=ba52ff&point=edffe5&area=true&hide_border=true)
+<details style="padding:10px;">
+<summary>
+    View more
+</summary>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=DevAmiyo&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=AB2CDD&ring=946AFD&fire=DD2727&sideLabels=7CDD9F">
+<br>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=DevAmiyo&theme=dracula">
+<br>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=DevAmiyo&bg_color=303030&color=ff8a8a&line=ba52ff&point=edffe5&area=true&hide_border=true">
+</p>
+</details>
 
 
 ## Completed Projects 
@@ -52,4 +63,3 @@ I like programming and learing new skills...
 ## Coffee?
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/amiyo)
-
