@@ -34,9 +34,10 @@ I like programming and learing new skills...
 
 <details style="padding:10px;">
 <summary>
-    View more
+    &nbsp;View more
 </summary>
 <p align="center">
+<br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=DevAmiyo&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=AB2CDD&ring=946AFD&fire=DD2727&sideLabels=7CDD9F">
 <br>
 <br>
