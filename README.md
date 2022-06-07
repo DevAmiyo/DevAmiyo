@@ -30,7 +30,10 @@ I like programming and learing new skills...
 <!--END_SECTION:activity-->
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=DevAmiyo&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmiyo&layout=compact&hide_border=true&bg_color=00000000&text_color=c3c6ce">
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=DevAmiyo&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmiyo&layout=compact&hide_border=true&bg_color=00000000&text_color=c3c6ce)
+-->
 
 <details style="padding:10px;">
 <summary>
