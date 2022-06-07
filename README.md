@@ -26,7 +26,7 @@ I like programming and learing new skills...
 3. 💪 Opened PR [#854](https://github.com/SudhanPlayz/Discord-MusicBot/pull/854) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 4. 🗣 Commented on [#1676](https://github.com/spicetify/spicetify-cli/issues/1676) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
 5. 🗣 Commented on [#2](https://github.com/Hacksore/overlayed/issues/2) in [Hacksore/overlayed](https://github.com/Hacksore/overlayed)
-6. 🗣 Commented on [#2](https://github.com/Hacksore/overlayed/issues/2) in [Hacksore/overlayed](https://github.com/Hacksore/overlayed)
+6. 💪 Opened PR [#36](https://github.com/mlg404/whatsapp-music-bot/pull/36) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
 <!--END_SECTION:activity-->
 
 
