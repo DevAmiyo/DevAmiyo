@@ -22,10 +22,10 @@ I like programming and learing new skills...
 ## Github Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3](https://github.com/DevAmiyo/DevAmiyo/issues/3) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
-2. 🎉 Merged PR [#2](https://github.com/DevAmiyo/DevAmiyo/pull/2) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
-3. 🎉 Merged PR [#1](https://github.com/DevAmiyo/DevAmiyo/pull/1) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
-4. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#854](https://github.com/SudhanPlayz/Discord-MusicBot/issues/854) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. ❗️ Closed issue [#3](https://github.com/DevAmiyo/DevAmiyo/issues/3) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
+3. 🎉 Merged PR [#2](https://github.com/DevAmiyo/DevAmiyo/pull/2) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
+4. 🎉 Merged PR [#1](https://github.com/DevAmiyo/DevAmiyo/pull/1) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
+5. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 6. 💪 Opened PR [#854](https://github.com/SudhanPlayz/Discord-MusicBot/pull/854) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 7. 🗣 Commented on [#1676](https://github.com/spicetify/spicetify-cli/issues/1676) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
 8. 🗣 Commented on [#2](https://github.com/Hacksore/overlayed/issues/2) in [Hacksore/overlayed](https://github.com/Hacksore/overlayed)
