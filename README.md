@@ -21,11 +21,11 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/DevAmiyo/DevAmiyo/issues/3) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
-2. ❗️ Closed issue [#3](https://github.com/DevAmiyo/DevAmiyo/issues/3) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
-3. 🎉 Merged PR [#2](https://github.com/DevAmiyo/DevAmiyo/pull/2) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
-4. 🎉 Merged PR [#1](https://github.com/DevAmiyo/DevAmiyo/pull/1) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
-5. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 💪 Opened PR [#877](https://github.com/SudhanPlayz/Discord-MusicBot/pull/877) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. ❌ Closed PR [#1](https://github.com/DevAmiyo/Discord-MusicBot/pull/1) in [DevAmiyo/Discord-MusicBot](https://github.com/DevAmiyo/Discord-MusicBot)
+4. 💪 Opened PR [#1](https://github.com/DevAmiyo/Discord-MusicBot/pull/1) in [DevAmiyo/Discord-MusicBot](https://github.com/DevAmiyo/Discord-MusicBot)
+5. ❗️ Closed issue [#3](https://github.com/DevAmiyo/DevAmiyo/issues/3) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
 6. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 7. 🗣 Commented on [#854](https://github.com/SudhanPlayz/Discord-MusicBot/issues/854) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 8. 🗣 Commented on [#1676](https://github.com/spicetify/spicetify-cli/issues/1676) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
