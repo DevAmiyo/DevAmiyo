@@ -21,11 +21,11 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#879](https://github.com/SudhanPlayz/Discord-MusicBot/issues/879) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#878](https://github.com/SudhanPlayz/Discord-MusicBot/issues/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 💪 Opened PR [#877](https://github.com/SudhanPlayz/Discord-MusicBot/pull/877) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. ❌ Closed PR [#1](https://github.com/DevAmiyo/Discord-MusicBot/pull/1) in [DevAmiyo/Discord-MusicBot](https://github.com/DevAmiyo/Discord-MusicBot)
+1. ❗️ Opened issue [#882](https://github.com/SudhanPlayz/Discord-MusicBot/issues/882) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#879](https://github.com/SudhanPlayz/Discord-MusicBot/issues/879) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#878](https://github.com/SudhanPlayz/Discord-MusicBot/issues/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 💪 Opened PR [#877](https://github.com/SudhanPlayz/Discord-MusicBot/pull/877) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 6. 🗣 Commented on [#854](https://github.com/SudhanPlayz/Discord-MusicBot/issues/854) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 7. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 8. 🗣 Commented on [#1676](https://github.com/spicetify/spicetify-cli/issues/1676) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
