@@ -26,10 +26,10 @@ I like programming and learing new skills...
 3. ❗️ Closed issue [#882](https://github.com/SudhanPlayz/Discord-MusicBot/issues/882) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 4. ❗️ Closed issue [#3](https://github.com/DevAmiyo/DevAmiyo/issues/3) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
 5. ❗️ Closed issue [#4](https://github.com/DevAmiyo/DevAmiyo/issues/4) in [DevAmiyo/DevAmiyo](https://github.com/DevAmiyo/DevAmiyo)
-6. 🗣 Commented on [#854](https://github.com/SudhanPlayz/Discord-MusicBot/issues/854) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-7. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-8. 🗣 Commented on [#1676](https://github.com/spicetify/spicetify-cli/issues/1676) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
-9. 🗣 Commented on [#2](https://github.com/Hacksore/overlayed/issues/2) in [Hacksore/overlayed](https://github.com/Hacksore/overlayed)
+6. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+7. 🗣 Commented on [#878](https://github.com/SudhanPlayz/Discord-MusicBot/issues/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+8. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+9. 🗣 Commented on [#1676](https://github.com/spicetify/spicetify-cli/issues/1676) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
 10. 💪 Opened PR [#36](https://github.com/mlg404/whatsapp-music-bot/pull/36) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
 <!--END_SECTION:activity-->
 
