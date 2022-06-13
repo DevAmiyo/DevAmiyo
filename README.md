@@ -21,11 +21,11 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/DevAmiyo/FileEncrypter/issues/3) in [DevAmiyo/FileEncrypter](https://github.com/DevAmiyo/FileEncrypter)
-2. 💪 Opened PR [#892](https://github.com/SudhanPlayz/Discord-MusicBot/pull/892) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. ❌ Closed PR [#11](https://github.com/shailendra14k/PRTest/pull/11) in [shailendra14k/PRTest](https://github.com/shailendra14k/PRTest)
-4. 💪 Opened PR [#11](https://github.com/shailendra14k/PRTest/pull/11) in [shailendra14k/PRTest](https://github.com/shailendra14k/PRTest)
-5. 🗣 Commented on [#888](https://github.com/SudhanPlayz/Discord-MusicBot/issues/888) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. ❗️ Opened issue [#4](https://github.com/DevAmiyo/FileEncrypter/issues/4) in [DevAmiyo/FileEncrypter](https://github.com/DevAmiyo/FileEncrypter)
+2. 🗣 Commented on [#3](https://github.com/DevAmiyo/FileEncrypter/issues/3) in [DevAmiyo/FileEncrypter](https://github.com/DevAmiyo/FileEncrypter)
+3. ❗️ Opened issue [#3](https://github.com/DevAmiyo/FileEncrypter/issues/3) in [DevAmiyo/FileEncrypter](https://github.com/DevAmiyo/FileEncrypter)
+4. 💪 Opened PR [#892](https://github.com/SudhanPlayz/Discord-MusicBot/pull/892) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❌ Closed PR [#11](https://github.com/shailendra14k/PRTest/pull/11) in [shailendra14k/PRTest](https://github.com/shailendra14k/PRTest)
 6. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 7. 🗣 Commented on [#878](https://github.com/SudhanPlayz/Discord-MusicBot/issues/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 8. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
