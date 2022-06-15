@@ -21,11 +21,11 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#899](https://github.com/SudhanPlayz/Discord-MusicBot/pull/899) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#897](https://github.com/SudhanPlayz/Discord-MusicBot/issues/897) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 🗣 Commented on [#1733](https://github.com/spicetify/spicetify-cli/issues/1733) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
-4. ❗️ Opened issue [#4](https://github.com/DevAmiyo/FileEncrypter/issues/4) in [DevAmiyo/FileEncrypter](https://github.com/DevAmiyo/FileEncrypter)
-5. 🗣 Commented on [#3](https://github.com/DevAmiyo/FileEncrypter/issues/3) in [DevAmiyo/FileEncrypter](https://github.com/DevAmiyo/FileEncrypter)
+1. 🗣 Commented on [#897](https://github.com/SudhanPlayz/Discord-MusicBot/issues/897) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 💪 Opened PR [#899](https://github.com/SudhanPlayz/Discord-MusicBot/pull/899) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#897](https://github.com/SudhanPlayz/Discord-MusicBot/issues/897) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#1733](https://github.com/spicetify/spicetify-cli/issues/1733) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
+5. ❗️ Opened issue [#4](https://github.com/DevAmiyo/FileEncrypter/issues/4) in [DevAmiyo/FileEncrypter](https://github.com/DevAmiyo/FileEncrypter)
 6. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 7. 🗣 Commented on [#878](https://github.com/SudhanPlayz/Discord-MusicBot/issues/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 8. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
