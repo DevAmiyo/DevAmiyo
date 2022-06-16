@@ -21,11 +21,11 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/DevAmiyo/Discord-MusicBot/pull/1) in [DevAmiyo/Discord-MusicBot](https://github.com/DevAmiyo/Discord-MusicBot)
-2. 🗣 Commented on [#37](https://github.com/mlg404/whatsapp-music-bot/issues/37) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
-3. 🗣 Commented on [#37](https://github.com/mlg404/whatsapp-music-bot/issues/37) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
-4. 💪 Opened PR [#38](https://github.com/mlg404/whatsapp-music-bot/pull/38) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
-5. 🗣 Commented on [#897](https://github.com/SudhanPlayz/Discord-MusicBot/issues/897) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 💪 Opened PR [#904](https://github.com/SudhanPlayz/Discord-MusicBot/pull/904) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. ❌ Closed PR [#1](https://github.com/DevAmiyo/Discord-MusicBot/pull/1) in [DevAmiyo/Discord-MusicBot](https://github.com/DevAmiyo/Discord-MusicBot)
+3. 💪 Opened PR [#1](https://github.com/DevAmiyo/Discord-MusicBot/pull/1) in [DevAmiyo/Discord-MusicBot](https://github.com/DevAmiyo/Discord-MusicBot)
+4. 🗣 Commented on [#37](https://github.com/mlg404/whatsapp-music-bot/issues/37) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
+5. 🗣 Commented on [#37](https://github.com/mlg404/whatsapp-music-bot/issues/37) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
 6. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 7. 🗣 Commented on [#878](https://github.com/SudhanPlayz/Discord-MusicBot/issues/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 8. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
