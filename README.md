@@ -21,11 +21,11 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#941](https://github.com/SudhanPlayz/Discord-MusicBot/pull/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#941](https://github.com/SudhanPlayz/Discord-MusicBot/issues/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 🗣 Commented on [#928](https://github.com/SudhanPlayz/Discord-MusicBot/issues/928) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 💪 Opened PR [#941](https://github.com/SudhanPlayz/Discord-MusicBot/pull/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🗣 Commented on [#940](https://github.com/SudhanPlayz/Discord-MusicBot/issues/940) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#928](https://github.com/SudhanPlayz/Discord-MusicBot/issues/928) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. ❌ Closed PR [#941](https://github.com/SudhanPlayz/Discord-MusicBot/pull/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#941](https://github.com/SudhanPlayz/Discord-MusicBot/issues/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#928](https://github.com/SudhanPlayz/Discord-MusicBot/issues/928) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 💪 Opened PR [#941](https://github.com/SudhanPlayz/Discord-MusicBot/pull/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 6. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 7. 🗣 Commented on [#878](https://github.com/SudhanPlayz/Discord-MusicBot/issues/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 8. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
