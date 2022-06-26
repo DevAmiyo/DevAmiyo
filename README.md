@@ -26,11 +26,11 @@ I like programming and learing new skills...
 3. 🗣 Commented on [#948](https://github.com/SudhanPlayz/Discord-MusicBot/issues/948) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 4. 🗣 Commented on [#928](https://github.com/SudhanPlayz/Discord-MusicBot/issues/928) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 5. ❌ Closed PR [#941](https://github.com/SudhanPlayz/Discord-MusicBot/pull/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-6. 💪 Opened PR [#878](https://github.com/SudhanPlayz/Discord-MusicBot/pull/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-7. 🗣 Commented on [#878](https://github.com/SudhanPlayz/Discord-MusicBot/issues/878) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-8. 💪 Opened PR [#856](https://github.com/SudhanPlayz/Discord-MusicBot/pull/856) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-9. 🗣 Commented on [#1676](https://github.com/spicetify/spicetify-cli/issues/1676) in [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
-10. 💪 Opened PR [#36](https://github.com/mlg404/whatsapp-music-bot/pull/36) in [mlg404/whatsapp-music-bot](https://github.com/mlg404/whatsapp-music-bot)
+6. 🗣 Commented on [#941](https://github.com/SudhanPlayz/Discord-MusicBot/issues/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+7. 🗣 Commented on [#928](https://github.com/SudhanPlayz/Discord-MusicBot/issues/928) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+8. 💪 Opened PR [#941](https://github.com/SudhanPlayz/Discord-MusicBot/pull/941) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+9. 🗣 Commented on [#940](https://github.com/SudhanPlayz/Discord-MusicBot/issues/940) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+10. 🗣 Commented on [#940](https://github.com/SudhanPlayz/Discord-MusicBot/issues/940) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
