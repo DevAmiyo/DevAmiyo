@@ -21,16 +21,16 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#975](https://github.com/SudhanPlayz/Discord-MusicBot/pull/975) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#969](https://github.com/SudhanPlayz/Discord-MusicBot/issues/969) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 💪 Opened PR [#967](https://github.com/SudhanPlayz/Discord-MusicBot/pull/967) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 💪 Opened PR [#2720](https://github.com/is-a-dev/register/pull/2720) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#459](https://github.com/RobinLinus/snapdrop/issues/459) in [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
-6. 🗣 Commented on [#947](https://github.com/SudhanPlayz/Discord-MusicBot/issues/947) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-7. 🗣 Commented on [#952](https://github.com/SudhanPlayz/Discord-MusicBot/issues/952) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-8. 💪 Opened PR [#952](https://github.com/SudhanPlayz/Discord-MusicBot/pull/952) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-9. 🗣 Commented on [#949](https://github.com/SudhanPlayz/Discord-MusicBot/issues/949) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-10. ❌ Closed PR [#949](https://github.com/SudhanPlayz/Discord-MusicBot/pull/949) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#947](https://github.com/SudhanPlayz/Discord-MusicBot/issues/947) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#957](https://github.com/SudhanPlayz/Discord-MusicBot/issues/957) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 💪 Opened PR [#975](https://github.com/SudhanPlayz/Discord-MusicBot/pull/975) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#969](https://github.com/SudhanPlayz/Discord-MusicBot/issues/969) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 💪 Opened PR [#967](https://github.com/SudhanPlayz/Discord-MusicBot/pull/967) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+6. 💪 Opened PR [#2720](https://github.com/is-a-dev/register/pull/2720) in [is-a-dev/register](https://github.com/is-a-dev/register)
+7. 🗣 Commented on [#459](https://github.com/RobinLinus/snapdrop/issues/459) in [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
+8. 🗣 Commented on [#947](https://github.com/SudhanPlayz/Discord-MusicBot/issues/947) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+9. 🗣 Commented on [#952](https://github.com/SudhanPlayz/Discord-MusicBot/issues/952) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+10. 💪 Opened PR [#952](https://github.com/SudhanPlayz/Discord-MusicBot/pull/952) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
