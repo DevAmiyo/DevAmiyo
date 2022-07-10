@@ -24,13 +24,13 @@ I like programming and learing new skills...
 1. 🗣 Commented on [#981](https://github.com/SudhanPlayz/Discord-MusicBot/issues/981) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 2. 🗣 Commented on [#981](https://github.com/SudhanPlayz/Discord-MusicBot/issues/981) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 3. 🗣 Commented on [#981](https://github.com/SudhanPlayz/Discord-MusicBot/issues/981) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. ❗️ Closed issue [#1](https://github.com/ItzCuteAkemi/pptr-youtube-music/issues/1) in [ItzCuteAkemi/pptr-youtube-music](https://github.com/ItzCuteAkemi/pptr-youtube-music)
-5. 🗣 Commented on [#1](https://github.com/ItzCuteAkemi/pptr-youtube-music/issues/1) in [ItzCuteAkemi/pptr-youtube-music](https://github.com/ItzCuteAkemi/pptr-youtube-music)
-6. ❗️ Opened issue [#1](https://github.com/ItzCuteAkemi/pptr-youtube-music/issues/1) in [ItzCuteAkemi/pptr-youtube-music](https://github.com/ItzCuteAkemi/pptr-youtube-music)
-7. 🗣 Commented on [#957](https://github.com/SudhanPlayz/Discord-MusicBot/issues/957) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-8. 🗣 Commented on [#947](https://github.com/SudhanPlayz/Discord-MusicBot/issues/947) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-9. 🗣 Commented on [#957](https://github.com/SudhanPlayz/Discord-MusicBot/issues/957) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-10. 💪 Opened PR [#975](https://github.com/SudhanPlayz/Discord-MusicBot/pull/975) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#981](https://github.com/SudhanPlayz/Discord-MusicBot/issues/981) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. ❗️ Closed issue [#1](https://github.com/ItzCuteAkemi/pptr-youtube-music/issues/1) in [ItzCuteAkemi/pptr-youtube-music](https://github.com/ItzCuteAkemi/pptr-youtube-music)
+6. 🗣 Commented on [#1](https://github.com/ItzCuteAkemi/pptr-youtube-music/issues/1) in [ItzCuteAkemi/pptr-youtube-music](https://github.com/ItzCuteAkemi/pptr-youtube-music)
+7. ❗️ Opened issue [#1](https://github.com/ItzCuteAkemi/pptr-youtube-music/issues/1) in [ItzCuteAkemi/pptr-youtube-music](https://github.com/ItzCuteAkemi/pptr-youtube-music)
+8. 🗣 Commented on [#957](https://github.com/SudhanPlayz/Discord-MusicBot/issues/957) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+9. 🗣 Commented on [#947](https://github.com/SudhanPlayz/Discord-MusicBot/issues/947) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+10. 🗣 Commented on [#957](https://github.com/SudhanPlayz/Discord-MusicBot/issues/957) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
