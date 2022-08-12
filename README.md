@@ -21,7 +21,7 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-No recent activity
+1. 🗣 Commented on [#951](https://github.com/SudhanPlayz/Discord-MusicBot/issues/951) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
