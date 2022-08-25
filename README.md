@@ -21,7 +21,7 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#951](https://github.com/SudhanPlayz/Discord-MusicBot/issues/951) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+1. 🗣 Commented on [#12](https://github.com/DarrenOfficial/lavalink-replit/issues/12) in [DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
 <!--END_SECTION:activity-->
 
 
