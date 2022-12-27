@@ -25,7 +25,7 @@ I like programming and learing new skills...
 2. 🗣 Commented on [#1108](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1108) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 3. 🗣 Commented on [#1110](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1110) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 4. 🗣 Commented on [#1112](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1112) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. Line 5
+5. 🍫 Ate a chocolate bar
 <!--END_SECTION:activity-->
 
 
