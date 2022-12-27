@@ -21,9 +21,9 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1110](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1110) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#1112](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1112) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. Line 3
+1. 🗣 Commented on [#1108](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1108) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 🗣 Commented on [#1110](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1110) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#1112](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1112) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 4. Line 4
 5. Line 5
 <!--END_SECTION:activity-->
