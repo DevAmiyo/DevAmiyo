@@ -21,11 +21,11 @@ I like programming and learing new skills...
 
 ## Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1146](https://github.com/SudhanPlayz/Discord-MusicBot/pull/1146) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-2. 🗣 Commented on [#1108](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1108) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-3. 🗣 Commented on [#1110](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1110) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-4. 🗣 Commented on [#1112](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1112) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
-5. 🍫 Ate a chocolate bar
+1. 💪 Opened PR [#1186](https://github.com/SudhanPlayz/Discord-MusicBot/pull/1186) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+2. 💪 Opened PR [#1146](https://github.com/SudhanPlayz/Discord-MusicBot/pull/1146) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+3. 🗣 Commented on [#1108](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1108) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+4. 🗣 Commented on [#1110](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1110) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
+5. 🗣 Commented on [#1112](https://github.com/SudhanPlayz/Discord-MusicBot/issues/1112) in [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot)
 <!--END_SECTION:activity-->
 
 
